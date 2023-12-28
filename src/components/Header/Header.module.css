@@ -1,0 +1,39 @@
+header{
+    width: 320px;
+    height: 527px;
+    background-color: #FFAE03;
+    margin: 0 auto;
+}
+header > img{
+    margin-left: 15px;
+}
+header > div{
+    width: 290px;
+    height: 206px;
+    background-color: #FA8500;
+    font-size: 24px;
+    margin: 57px 0 0 15px;
+}
+header > div > p:nth-of-type(1){
+    color: #F7CC20;
+    font-weight: 700;
+    line-height: 29px;
+    padding: 27px 0 0 7px;
+}
+header > div > p:nth-of-type(2){
+    color: #fff;
+    font-weight: 400;
+    line-height: 29px;
+    padding: 15px 0 0 90px;
+}
+header > button{
+    width: 140px;
+    height: 50px;
+    background-color: #F68A2F;
+    margin: 0 auto;
+    border-radius: 17px;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    margin: 28px 0 0 90px;
+}
